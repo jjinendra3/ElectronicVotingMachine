@@ -1,7 +1,7 @@
 #  🗳️Electronic Voting System
 
 The goal of this project is to build a functioning prototype of an Electronic Voting Machine. 
-It could be utilized to hold elections for various designations and positions inside an organization.The Electronic Voting System (EVS) is a computer-based system used to securely cast and count votes in elections. It is designed to replace the traditional paper-based voting system, providing a reliable and secure way for citizens to cast their votes. 
+It could be utilized to hold elections for various designations and positions inside an organization.The Electronic Voting Machine (EVM) is a computer-based system used to securely cast and count votes in elections. It is designed to replace the traditional paper-based voting system, providing a reliable and secure way for citizens to cast their votes. 
 
 This system is designed to provide: 
 * Increased accuracy in the voting process.
