@@ -4,11 +4,6 @@
 - [@Nilesh Verma](https://github.com/NileshVerma001)
 - [@Parth Khare](https://github.com/Parth1706)
 
-## 🖥️System Requirements 
-* Operating System: Windows, Linux, Mac OS 
-* System Requirements: g++ compiler
-* Programming Language: C 
-
 ## 💽Installation 
 Follow the steps below to install the system: 
 1. Download the source code EVM.c and EVM.exe [Both in the same folder]. 
