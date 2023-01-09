@@ -1,3 +1,19 @@
+## 👨‍💻Authors
+- [@Jinendra Jain](https://github.com/jjinendra3)
+- [@Lakshya Kandpal](https://github.com/HiLakshya)
+- [@Nilesh Verma](https://github.com/NileshVerma001)
+- [@Parth Khare](https://github.com/Parth1706)
+
+## 🖥️System Requirements 
+* Operating System: Windows, Linux, Mac OS 
+* System Requirements: g++ compiler
+* Programming Language: C 
+
+## 💽Installation 
+Follow the steps below to install the system: 
+1. Download the source code EVM.c and EVM.exe [Both in the same folder]. 
+2. Run the exe file.
+
 #  🗳️Electronic Voting System
 
 The goal of this project is to build a functioning prototype of an Electronic Voting Machine. 
@@ -16,22 +32,7 @@ This system is designed to provide:
 * Auditability: The system will provide an audit trail so that the results can be verified and any irregularities can be identified. 
 * Security:The system is designed and implemented with security as a top priority. The system will protect user data and votes. Access to the system will be restricted to authorized personnel only, and all communication between the system and users will be secure. 
 
-## 🖥️System Requirements 
-* Operating System: Windows, Linux, Mac OS 
-* System Requirements: g++ compiler
-* Programming Language: C 
-
-## 💽Installation 
-Follow the steps below to install the system: 
-1. Download the source code EVM.c.
-2. Install the necessary dependencies and compile the code.[or directly run EVM.exe]  
-3. Run the exe file.
 
 ## 🛠Status
 The project is completed.
 
-## 👨‍💻Authors
-- [@Jinendra Jain](https://github.com/jjinendra3)
-- [@Lakshya Kandpal](https://github.com/HiLakshya)
-- [@Nilesh Verma](https://github.com/NileshVerma001)
-- [@Parth Khare](https://github.com/Parth1706)
