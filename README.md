@@ -13,6 +13,7 @@
 Follow the steps below to install the system: 
 1. Download the source code EVM.c and EVM.exe [Both in the same folder]. 
 2. Run the exe file.
+3. Use jjinendra3 as username and password to access the results. 
 
 #  🗳️Electronic Voting System
 
